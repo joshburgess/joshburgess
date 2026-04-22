@@ -10,9 +10,9 @@ Software engineer. Interested in type systems, functional programming, and build
 
 ## Recent Projects
 
-- (mythic)[https://github.com/joshburgess/mythic]
-- (elm-ast)[https://github.com/joshburgess/elm-ast]
-- (elm-assist)[https://github.com/joshburgess/elm-assist]
-- (elm-codegen)[https://github.com/joshburgess/elm-codegen]
+- [mythic](https://github.com/joshburgess/mythic)
+- [elm-ast](https://github.com/joshburgess/elm-ast)
+- [elm-assist](https://github.com/joshburgess/elm-assist)
+- [elm-codegen](https://github.com/joshburgess/elm-codegen)
 
 More to come soon...

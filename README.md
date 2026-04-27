@@ -32,5 +32,6 @@ Software engineer. Interested in type systems, functional programming, performan
 
 - [aeon](https://github.com/joshburgess/aeon)
 - [kinem](https://github.com/joshburgess/kinem)
+- [tagged-ts](https://github.com/joshburgess/tagged-ts)
 
 More to come soon...

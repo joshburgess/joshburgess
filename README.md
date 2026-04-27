@@ -1,6 +1,6 @@
 # Josh Burgess
 
-Software engineer. Interested in type systems, functional programming, and building reliable software.
+Software engineer. Interested in type systems, functional programming, performance, and building reliable software.
 
 ## Links
 

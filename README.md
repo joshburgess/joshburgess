@@ -15,6 +15,7 @@ Software engineer. Interested in type systems, functional programming, performan
 - [typeway](https://github.com/joshburgess/typeway)
 - [resolute](https://github.com/joshburgess/resolute)
 - [proptest-lockstep](https://github.com/joshburgess/proptest-lockstep)
+- [reify-reflect](https://github.com/joshburgess/reify-reflect)
 - [elm-ast](https://github.com/joshburgess/elm-ast)
 - [elm-assist](https://github.com/joshburgess/elm-assist)
 - [elm-client-gen](https://github.com/joshburgess/elm-client-gen)

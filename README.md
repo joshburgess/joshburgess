@@ -34,4 +34,8 @@ Software engineer. Interested in type systems, functional programming, performan
 - [kinem](https://github.com/joshburgess/kinem)
 - [tagged-ts](https://github.com/joshburgess/tagged-ts)
 
+### Written in Elm
+
+- [elm-route-craft](https://github.com/joshburgess/elm-route-craft)
+
 More to come soon...

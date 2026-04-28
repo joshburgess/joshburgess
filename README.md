@@ -13,7 +13,7 @@ Software engineer. Interested in type systems, functional programming, performan
 ### Written in Rust
 
 - [typeway](https://github.com/joshburgess/typeway)
-- [resolute, pg-wired, pg-pool, etc.](https://github.com/joshburgess/resolute)
+- [resolute, pg-wired, & pg-pool](https://github.com/joshburgess/resolute)
 - [proptest-lockstep](https://github.com/joshburgess/proptest-lockstep)
 - [reify-reflect](https://github.com/joshburgess/reify-reflect)
 - [elm-ast](https://github.com/joshburgess/elm-ast)

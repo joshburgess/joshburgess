@@ -13,7 +13,7 @@ Software engineer. Interested in type systems, functional programming, performan
 ### Written in Rust
 
 - [typeway](https://github.com/joshburgess/typeway)
-- [resolute](https://github.com/joshburgess/resolute)
+- [resolute, pg-wired, pg-pool, etc.](https://github.com/joshburgess/resolute)
 - [proptest-lockstep](https://github.com/joshburgess/proptest-lockstep)
 - [reify-reflect](https://github.com/joshburgess/reify-reflect)
 - [elm-ast](https://github.com/joshburgess/elm-ast)
@@ -26,7 +26,7 @@ Software engineer. Interested in type systems, functional programming, performan
 ### Written in Haskell
 
 - [acolyte & spire](https://github.com/joshburgess/acolyte)
-- [valiant](https://github.com/joshburgess/valiant)
+- [valiant & pg-wire](https://github.com/joshburgess/valiant)
 - [hedgehog-lockstep](https://github.com/joshburgess/hedgehog-lockstep)
 
 ### Written in TypeScript

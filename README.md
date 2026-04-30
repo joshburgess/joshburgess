@@ -5,7 +5,6 @@ Software engineer. Interested in type systems, functional programming, performan
 ## Links
 
 - [Home](https://joshburgess.github.io/)
-
 - [Tech Blog](https://joshburgess.github.io/blog/)
 
 ## Recent Projects

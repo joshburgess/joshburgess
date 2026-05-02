@@ -13,10 +13,10 @@
 
 ## Recent Projects
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8" bgcolor="#CE422B"><tr><td align="center" bgcolor="#CE422B"><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" width="153"></td></tr></table>
+<img src="assets/banner-rust.svg" alt="Rust" width="100%">
 
-
-<table>
+<table width="100%">
+<colgroup><col width="260"><col></colgroup>
 <tr><td><a href="https://github.com/joshburgess/typeway"><code>typeway</code></a></td><td>type-level web framework where the API is one type, deriving servers, clients, and OpenAPI schemas</td></tr>
 <tr><td><a href="https://github.com/joshburgess/resolute"><code>resolute, pg-wired, &amp; pg-pool</code></a></td><td>ground-up PostgreSQL client stack with compile-time checked queries, binary wire protocol, and async pool</td></tr>
 <tr><td><a href="https://github.com/joshburgess/proptest-lockstep"><code>proptest-lockstep</code></a></td><td>lockstep-style stateful property testing, with 236 machine-checked theorems in Lean 4</td></tr>
@@ -29,29 +29,29 @@
 <tr><td><a href="https://github.com/joshburgess/cabalist"><code>cabalist</code></a></td><td>opinionated toolkit for managing Haskell <code>.cabal</code> files, with a TUI, scriptable CLI, and LSP server</td></tr>
 </table>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8" bgcolor="#5D4F85"><tr><td align="center" bgcolor="#5D4F85"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" width="202"></td></tr></table>
+<img src="assets/banner-haskell.svg" alt="Haskell" width="100%">
 
-
-<table>
+<table width="100%">
+<colgroup><col width="260"><col></colgroup>
 <tr><td><a href="https://github.com/joshburgess/acolyte"><code>acolyte &amp; spire</code></a></td><td>composable, type-safe web framework where the API is a type and middleware is tracked at compile time</td></tr>
 <tr><td><a href="https://github.com/joshburgess/valiant"><code>valiant &amp; pg-wire</code></a></td><td>ground-up PostgreSQL client stack for Haskell with compile-time checked queries and binary wire protocol</td></tr>
 <tr><td><a href="https://github.com/joshburgess/hedgehog-lockstep"><code>hedgehog-lockstep</code></a></td><td>lockstep-style stateful property testing on top of Hedgehog's state machine framework</td></tr>
 </table>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8" bgcolor="#3178C6"><tr><td align="center" bgcolor="#3178C6"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="248"></td></tr></table>
+<img src="assets/banner-typescript.svg" alt="TypeScript" width="100%">
 
-
-<table>
+<table width="100%">
+<colgroup><col width="260"><col></colgroup>
 <tr><td><a href="https://github.com/joshburgess/aeon"><code>aeon</code></a></td><td>high-performance, denotationally designed reactive programming library</td></tr>
 <tr><td><a href="https://github.com/joshburgess/kinem"><code>kinem</code></a></td><td>functional, compositional animation where an animation is a pure function from progress to value</td></tr>
 <tr><td><a href="https://github.com/joshburgess/tachys"><code>tachys</code></a></td><td>extremely highperformance React-like virtual DOM library optimized for V8</td></tr>
 <tr><td><a href="https://github.com/joshburgess/tagged-ts"><code>tagged-ts</code></a></td><td>tagged unions code generation library for discriminating tastes</td></tr>
 </table>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8" bgcolor="#1293D8"><tr><td align="center" bgcolor="#1293D8"><img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white" alt="Elm" width="137"></td></tr></table>
+<img src="assets/banner-elm.svg" alt="Elm" width="100%">
 
-
-<table>
+<table width="100%">
+<colgroup><col width="260"><col></colgroup>
 <tr><td><a href="https://github.com/joshburgess/elm-route-craft"><code>elm-route-craft</code></a></td><td>composable, bidirectional SPA routing that parses and builds URLs from one typed codec pipeline</td></tr>
 </table>
 

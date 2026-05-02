@@ -21,7 +21,7 @@ Click the ▸ icon next to each language banner or the banner itself to expand a
 
 <details>
 <summary><picture><img src="assets/spacer.svg" width="3%" align="absmiddle"></picture><picture><img src="assets/banners/rust.svg" alt="Rust" width="92%" align="absmiddle"></picture></summary>
-<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/typeway"><picture><source media="(max-width: 600px)" srcset="assets/tiles/typeway-narrow.svg"><img src="assets/tiles/typeway.svg" alt="typeway" width="92%"></picture></a></div>
+<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/typeway"><picture><source media="(max-width: 900px)" srcset="assets/tiles/typeway-narrow.svg"><img src="assets/tiles/typeway.svg" alt="typeway" width="92%"></picture></a></div>
 
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/resolute"><img src="assets/tiles/resolute.svg" alt="resolute, pg-wired, & pg-pool" width="92%"></a></div>
 

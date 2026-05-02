@@ -16,6 +16,8 @@
 <details>
 <summary><img src="assets/banner-rust.svg" alt="Rust" width="98%" align="absmiddle"></summary>
 
+<br>
+
 <a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="100%"></a>
 
 <a href="https://github.com/joshburgess/resolute"><img src="assets/projects/resolute.svg" alt="resolute, pg-wired, & pg-pool" width="100%"></a>
@@ -41,6 +43,8 @@
 <details>
 <summary><img src="assets/banner-haskell.svg" alt="Haskell" width="98%" align="absmiddle"></summary>
 
+<br>
+
 <a href="https://github.com/joshburgess/acolyte"><img src="assets/projects/acolyte.svg" alt="acolyte & spire" width="100%"></a>
 
 <a href="https://github.com/joshburgess/valiant"><img src="assets/projects/valiant.svg" alt="valiant & pg-wire" width="100%"></a>
@@ -51,6 +55,8 @@
 
 <details>
 <summary><img src="assets/banner-typescript.svg" alt="TypeScript" width="98%" align="absmiddle"></summary>
+
+<br>
 
 <a href="https://github.com/joshburgess/aeon"><img src="assets/projects/aeon.svg" alt="aeon" width="100%"></a>
 
@@ -64,6 +70,8 @@
 
 <details>
 <summary><img src="assets/banner-elm.svg" alt="Elm" width="98%" align="absmiddle"></summary>
+
+<br>
 
 <a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/projects/elm-route-craft.svg" alt="elm-route-craft" width="100%"></a>
 

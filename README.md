@@ -13,6 +13,8 @@
 
 ## Recent Projects
 
+<sub>Click the ▸ icon next to each language banner to expand and see the projects written in that language.</sub>
+
 <details>
 <summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banners/rust.svg" alt="Rust" width="92%" align="absmiddle"></summary>
 
@@ -68,9 +70,3 @@
 <div align="center"><a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/tiles/elm-route-craft.svg" alt="elm-route-craft" width="92%"></a></div>
 
 </details>
-
-<div align="center">
-
-<sub><i>More to come soon...</i></sub>
-
-</div>

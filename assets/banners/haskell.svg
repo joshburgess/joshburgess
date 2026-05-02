@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 68" preserveAspectRatio="xMidYMid meet">
-  <rect width="1000" height="56" fill="#5D4F85"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#5D4F85"/>
   <g transform="translate(418, 0)">
     <image x="0" y="12" width="32" height="32" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkhhc2tlbGw8L3RpdGxlPjxwYXRoIGQ9Ik0wIDMuNTM1TDUuNjQ3IDEyIDAgMjAuNDY1aDQuMjM1TDkuODgzIDEyIDQuMjM1IDMuNTM1em01LjY0NyAwTDExLjI5NCAxMmwtNS42NDcgOC40NjVoNC4yMzVsMy41My01LjI5IDMuNTMgNS4yOWg0LjIzNEw5Ljg4MyAzLjUzNXptOC45NDEgNC45MzhsMS44ODMgMi44MjJIMjRWOC40NzN6bTIuODI0IDQuMjMybDEuODgyIDIuODIySDI0di0yLjgyMnoiLz48L3N2Zz4="/>
     <text x="44" y="36" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="22" font-weight="bold" fill="white" letter-spacing="3">HASKELL</text>

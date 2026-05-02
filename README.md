@@ -13,7 +13,8 @@
 
 ## Recent Projects
 
-<img src="assets/banner-rust.svg" alt="Rust" width="100%">
+<details open>
+<summary><img src="assets/banner-rust.svg" alt="Rust" width="100%"></summary>
 
 <a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="100%"></a>
 
@@ -35,7 +36,10 @@
 
 <a href="https://github.com/joshburgess/cabalist"><img src="assets/projects/cabalist.svg" alt="cabalist" width="100%"></a>
 
-<img src="assets/banner-haskell.svg" alt="Haskell" width="100%">
+</details>
+
+<details>
+<summary><img src="assets/banner-haskell.svg" alt="Haskell" width="100%"></summary>
 
 <a href="https://github.com/joshburgess/acolyte"><img src="assets/projects/acolyte.svg" alt="acolyte & spire" width="100%"></a>
 
@@ -43,7 +47,10 @@
 
 <a href="https://github.com/joshburgess/hedgehog-lockstep"><img src="assets/projects/hedgehog-lockstep.svg" alt="hedgehog-lockstep" width="100%"></a>
 
-<img src="assets/banner-typescript.svg" alt="TypeScript" width="100%">
+</details>
+
+<details>
+<summary><img src="assets/banner-typescript.svg" alt="TypeScript" width="100%"></summary>
 
 <a href="https://github.com/joshburgess/aeon"><img src="assets/projects/aeon.svg" alt="aeon" width="100%"></a>
 
@@ -53,9 +60,14 @@
 
 <a href="https://github.com/joshburgess/tagged-ts"><img src="assets/projects/tagged-ts.svg" alt="tagged-ts" width="100%"></a>
 
-<img src="assets/banner-elm.svg" alt="Elm" width="100%">
+</details>
+
+<details>
+<summary><img src="assets/banner-elm.svg" alt="Elm" width="100%"></summary>
 
 <a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/projects/elm-route-craft.svg" alt="elm-route-craft" width="100%"></a>
+
+</details>
 
 <div align="center">
 

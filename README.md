@@ -11,9 +11,13 @@
 
 ---
 
+<div align="center">
+
 ## Projects
 
 Click the ▸ icon next to each language banner or the banner itself to expand and see the projects written in that language.
+
+</div>
 
 <details>
 <summary><picture><img src="assets/spacer.svg" width="20" align="absmiddle"></picture><picture><img src="assets/banners/rust.svg" alt="Rust" width="92%" align="absmiddle"></picture></summary>

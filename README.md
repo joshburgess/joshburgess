@@ -21,7 +21,6 @@ Click the ▸ icon next to each language banner or the banner itself to expand a
 
 <details>
 <summary><picture><img src="assets/spacer.svg" width="3%" align="absmiddle"></picture><picture><img src="assets/banners/rust.svg" alt="Rust" width="92%" align="absmiddle"></picture></summary>
-
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/typeway"><img src="assets/tiles/typeway.svg" alt="typeway" width="92%"></a></div>
 
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/resolute"><img src="assets/tiles/resolute.svg" alt="resolute, pg-wired, & pg-pool" width="92%"></a></div>
@@ -46,7 +45,6 @@ Click the ▸ icon next to each language banner or the banner itself to expand a
 
 <details>
 <summary><picture><img src="assets/spacer.svg" width="3%" align="absmiddle"></picture><picture><img src="assets/banners/haskell.svg" alt="Haskell" width="92%" align="absmiddle"></picture></summary>
-
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/acolyte"><img src="assets/tiles/acolyte.svg" alt="acolyte & spire" width="92%"></a></div>
 
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/valiant"><img src="assets/tiles/valiant.svg" alt="valiant & pg-wire" width="92%"></a></div>
@@ -57,7 +55,6 @@ Click the ▸ icon next to each language banner or the banner itself to expand a
 
 <details>
 <summary><picture><img src="assets/spacer.svg" width="3%" align="absmiddle"></picture><picture><img src="assets/banners/typescript.svg" alt="TypeScript" width="92%" align="absmiddle"></picture></summary>
-
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/aeon"><img src="assets/tiles/aeon.svg" alt="aeon" width="92%"></a></div>
 
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/kinem"><img src="assets/tiles/kinem.svg" alt="kinem" width="92%"></a></div>
@@ -70,7 +67,6 @@ Click the ▸ icon next to each language banner or the banner itself to expand a
 
 <details>
 <summary><picture><img src="assets/spacer.svg" width="3%" align="absmiddle"></picture><picture><img src="assets/banners/elm.svg" alt="Elm" width="92%" align="absmiddle"></picture></summary>
-
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/tiles/elm-route-craft.svg" alt="elm-route-craft" width="92%"></a></div>
 
 </details>

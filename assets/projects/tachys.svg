@@ -11,5 +11,5 @@
   </style>
   <rect class="bg" x="2" y="2" width="996" height="86" rx="10"/>
   <text class="name" x="500" y="37" text-anchor="middle">tachys</text>
-  <text class="desc" x="500" y="65" text-anchor="middle">extremely highperformance React-like virtual DOM library optimized for V8</text>
+  <text class="desc" x="500" y="65" text-anchor="middle">extremely high performance React-like virtual DOM library optimized for V8</text>
 </svg>

@@ -15,25 +15,7 @@
 
 <img src="assets/banner-rust.svg" alt="Rust" width="100%">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="100%">
-  <style>
-    .bg { fill: #f6f8fa; stroke: #d1d9e0; stroke-width: 1; transition: fill .15s, stroke .15s; }
-    .name { font: 700 28px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #0969da; }
-    .desc { font: 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
-    a:hover .bg { fill: #ddf4ff; stroke: #0969da; }
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #161b22; stroke: #30363d; }
-      .name { fill: #4493f8; }
-      .desc { fill: #9198a1; }
-      a:hover .bg { fill: #1f6feb1a; stroke: #4493f8; }
-    }
-  </style>
-  <a href="https://github.com/joshburgess/typeway">
-    <rect class="bg" x="2" y="2" width="996" height="86" rx="10"/>
-    <text class="name" x="500" y="37" text-anchor="middle">typeway</text>
-    <text class="desc" x="500" y="65" text-anchor="middle">type-level web framework where the API is one type, deriving servers, clients, and OpenAPI schemas</text>
-  </a>
-</svg>
+<a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="100%"></a>
 
 <a href="https://github.com/joshburgess/resolute"><img src="assets/projects/resolute.svg" alt="resolute, pg-wired, & pg-pool" width="100%"></a>
 

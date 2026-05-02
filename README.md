@@ -16,7 +16,7 @@
 <sub>Click the ▸ icon next to each language banner to expand and see the projects written in that language.</sub>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banners/rust.svg" alt="Rust" width="92%" align="absmiddle"></summary>
+<summary><picture><img src="assets/spacer.svg" width="20" align="absmiddle"></picture><picture><img src="assets/banners/rust.svg" alt="Rust" width="92%" align="absmiddle"></picture></summary>
 
 <div align="center"><a href="https://github.com/joshburgess/typeway"><img src="assets/tiles/typeway.svg" alt="typeway" width="92%"></a></div>
 
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banners/haskell.svg" alt="Haskell" width="92%" align="absmiddle"></summary>
+<summary><picture><img src="assets/spacer.svg" width="20" align="absmiddle"></picture><picture><img src="assets/banners/haskell.svg" alt="Haskell" width="92%" align="absmiddle"></picture></summary>
 
 <div align="center"><a href="https://github.com/joshburgess/acolyte"><img src="assets/tiles/acolyte.svg" alt="acolyte & spire" width="92%"></a></div>
 
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banners/typescript.svg" alt="TypeScript" width="92%" align="absmiddle"></summary>
+<summary><picture><img src="assets/spacer.svg" width="20" align="absmiddle"></picture><picture><img src="assets/banners/typescript.svg" alt="TypeScript" width="92%" align="absmiddle"></picture></summary>
 
 <div align="center"><a href="https://github.com/joshburgess/aeon"><img src="assets/tiles/aeon.svg" alt="aeon" width="92%"></a></div>
 
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banners/elm.svg" alt="Elm" width="92%" align="absmiddle"></summary>
+<summary><picture><img src="assets/spacer.svg" width="20" align="absmiddle"></picture><picture><img src="assets/banners/elm.svg" alt="Elm" width="92%" align="absmiddle"></picture></summary>
 
 <div align="center"><a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/tiles/elm-route-craft.svg" alt="elm-route-craft" width="92%"></a></div>
 

@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" preserveAspectRatio="xMidYMid meet">
   <rect width="100%" height="100%" fill="#1293D8"/>
-  <text x="500" y="36" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="3">ELM</text>
+  <g transform="translate(452, 0)">
+    <image x="0" y="12" width="32" height="32" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkVsbTwvdGl0bGU+PHBhdGggZD0iTTIzLjk4NiAxMi44MDZWMjMuMmwtNS4xOTctNS4xOTd6TTYuNzk2IDYuMDFIMTcuMTlsLTUuMTk3IDUuMTk3em05LjI3NS0xLjEySDUuNjc3TC44LjAxNWgxMC4zOTR6bTcuMTE2IDcuMTE3TDE3Ljk5IDYuODFsLTUuMTk3IDUuMTk3IDUuMTk3IDUuMTk3em0uODEzLS44MTNMMTIuODA2IDBIMjR6TTAgMjMuMlYuODEzbDExLjE5NCAxMS4xOTR6bTIzLjE4Ny44SC44bDExLjE5My0xMS4xOTRaIi8+PC9zdmc+"/>
+    <text x="44" y="36" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="22" font-weight="bold" fill="white" letter-spacing="3">ELM</text>
+  </g>
 </svg>

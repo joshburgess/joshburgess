@@ -9,7 +9,7 @@
       .desc { fill: #9198a1; }
     }
   </style>
-  <rect class="bg" x="2" y="2" width="996" height="56" rx="8"/>
+  <rect class="bg" x="2" y="2" width="996" height="56"/>
   <text class="name" x="500" y="24" text-anchor="middle">elm-client-gen</text>
   <text class="desc" x="500" y="46" text-anchor="middle">generates Elm types, decoders, encoders, and HTTP clients from Rust types and Axum handlers</text>
 </svg>

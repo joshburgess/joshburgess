@@ -9,7 +9,7 @@
       .desc { fill: #9198a1; }
     }
   </style>
-  <rect class="bg" x="2" y="2" width="996" height="56" rx="8"/>
+  <rect class="bg" x="2" y="2" width="996" height="56"/>
   <text class="name" x="500" y="24" text-anchor="middle">hedgehog-lockstep</text>
   <text class="desc" x="500" y="46" text-anchor="middle">lockstep-style stateful property testing on top of Hedgehog's state machine framework</text>
 </svg>

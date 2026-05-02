@@ -9,7 +9,7 @@
       .desc { fill: #9198a1; }
     }
   </style>
-  <rect class="bg" x="2" y="2" width="996" height="56" rx="8"/>
+  <rect class="bg" x="2" y="2" width="996" height="56"/>
   <text class="name" x="500" y="24" text-anchor="middle">resolute, pg-wired, &amp; pg-pool</text>
   <text class="desc" x="500" y="46" text-anchor="middle">ground-up PostgreSQL client stack with compile-time checked queries, binary wire protocol, and async pool</text>
 </svg>

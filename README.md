@@ -14,7 +14,7 @@
 ## Recent Projects
 
 <details>
-<summary><div align="center"><img src="assets/banner-rust.svg" alt="Rust" width="92%" align="absmiddle"></div></summary>
+<summary><img src="assets/banner-rust.svg" alt="Rust" width="92%" align="absmiddle"></summary>
 
 <br>
 
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><div align="center"><img src="assets/banner-haskell.svg" alt="Haskell" width="92%" align="absmiddle"></div></summary>
+<summary><img src="assets/banner-haskell.svg" alt="Haskell" width="92%" align="absmiddle"></summary>
 
 <br>
 
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary><div align="center"><img src="assets/banner-typescript.svg" alt="TypeScript" width="92%" align="absmiddle"></div></summary>
+<summary><img src="assets/banner-typescript.svg" alt="TypeScript" width="92%" align="absmiddle"></summary>
 
 <br>
 
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-<summary><div align="center"><img src="assets/banner-elm.svg" alt="Elm" width="92%" align="absmiddle"></div></summary>
+<summary><img src="assets/banner-elm.svg" alt="Elm" width="92%" align="absmiddle"></summary>
 
 <br>
 

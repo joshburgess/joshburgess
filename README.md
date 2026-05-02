@@ -14,11 +14,7 @@
 ## Recent Projects
 
 <details open>
-<summary>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="#CE422B"><img src="assets/banner-rust.svg" alt="Rust" width="100%"></td></tr></table>
-
-</summary>
+<summary><img src="assets/banner-rust.svg" alt="Rust" width="98%"></summary>
 
 <a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="100%"></a>
 

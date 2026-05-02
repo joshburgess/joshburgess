@@ -14,7 +14,7 @@
 ## Recent Projects
 
 <details open>
-<summary><img src="assets/banner-rust.svg" alt="Rust" width="98%"></summary>
+<summary><img src="assets/banner-rust.svg" alt="Rust" width="98%" align="middle"></summary>
 
 <a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="100%"></a>
 
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary><img src="assets/banner-haskell.svg" alt="Haskell" width="98%"></summary>
+<summary><img src="assets/banner-haskell.svg" alt="Haskell" width="98%" align="middle"></summary>
 
 <a href="https://github.com/joshburgess/acolyte"><img src="assets/projects/acolyte.svg" alt="acolyte & spire" width="100%"></a>
 
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary><img src="assets/banner-typescript.svg" alt="TypeScript" width="98%"></summary>
+<summary><img src="assets/banner-typescript.svg" alt="TypeScript" width="98%" align="middle"></summary>
 
 <a href="https://github.com/joshburgess/aeon"><img src="assets/projects/aeon.svg" alt="aeon" width="100%"></a>
 
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary><img src="assets/banner-elm.svg" alt="Elm" width="98%"></summary>
+<summary><img src="assets/banner-elm.svg" alt="Elm" width="98%" align="middle"></summary>
 
 <a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/projects/elm-route-craft.svg" alt="elm-route-craft" width="100%"></a>
 

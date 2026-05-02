@@ -13,7 +13,7 @@
 
 ## Recent Projects
 
-<details open>
+<details>
 <summary><img src="assets/banner-rust.svg" alt="Rust" width="98%" align="absmiddle"></summary>
 
 <a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="100%"></a>

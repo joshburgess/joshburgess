@@ -13,7 +13,7 @@
 
 ## Recent Projects
 
-### Written in Rust
+### ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 |   |   |
 | :-- | :-- |
@@ -28,7 +28,7 @@
 | [`hoogle-tui`](https://github.com/joshburgess/hoogle-tui) | terminal UI for Hoogle, Haskell's type-aware search engine |
 | [`cabalist`](https://github.com/joshburgess/cabalist) | opinionated toolkit for managing Haskell `.cabal` files, with a TUI, scriptable CLI, and LSP server |
 
-### Written in Haskell
+### ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 |   |   |
 | :-- | :-- |
@@ -36,7 +36,7 @@
 | [`valiant & pg-wire`](https://github.com/joshburgess/valiant) | ground-up PostgreSQL client stack for Haskell with compile-time checked queries and binary wire protocol |
 | [`hedgehog-lockstep`](https://github.com/joshburgess/hedgehog-lockstep) | lockstep-style stateful property testing on top of Hedgehog's state machine framework |
 
-### Written in TypeScript
+### ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 |   |   |
 | :-- | :-- |
@@ -45,7 +45,7 @@
 | [`tachys`](https://github.com/joshburgess/tachys) | extremely highperformance React-like virtual DOM library optimized for V8 |
 | [`tagged-ts`](https://github.com/joshburgess/tagged-ts) | tagged unions code generation library for discriminating tastes |
 
-### Written in Elm
+### ![Elm](https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white)
 
 |   |   |
 | :-- | :-- |

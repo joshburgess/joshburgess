@@ -2,7 +2,7 @@
 
 # Josh Burgess
 
-*Software engineer.*  
+*Software engineer. Prolific builder.*  
 *Interested in type systems, functional programming, performance, and building reliable software.*
 
 [Home](https://joshburgess.github.io/) &nbsp;·&nbsp; [Tech Blog](https://joshburgess.github.io/blog/)

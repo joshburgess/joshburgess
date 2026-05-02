@@ -13,7 +13,7 @@
 
 ## Recent Projects
 
-<p><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="56"></p>
+<p><img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" width="153"></p>
 
 
 <table>
@@ -29,7 +29,7 @@
 <tr><td><a href="https://github.com/joshburgess/cabalist"><code>cabalist</code></a></td><td>opinionated toolkit for managing Haskell <code>.cabal</code> files, with a TUI, scriptable CLI, and LSP server</td></tr>
 </table>
 
-<p><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" height="56"></p>
+<p><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" width="202"></p>
 
 
 <table>
@@ -38,7 +38,7 @@
 <tr><td><a href="https://github.com/joshburgess/hedgehog-lockstep"><code>hedgehog-lockstep</code></a></td><td>lockstep-style stateful property testing on top of Hedgehog's state machine framework</td></tr>
 </table>
 
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="56"></p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="248"></p>
 
 
 <table>
@@ -48,7 +48,7 @@
 <tr><td><a href="https://github.com/joshburgess/tagged-ts"><code>tagged-ts</code></a></td><td>tagged unions code generation library for discriminating tastes</td></tr>
 </table>
 
-<p><img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white" alt="Elm" height="56"></p>
+<p><img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white" alt="Elm" width="137"></p>
 
 
 <table>

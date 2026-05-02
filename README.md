@@ -14,66 +14,66 @@
 ## Recent Projects
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-rust.svg" alt="Rust" width="92%" align="absmiddle"></summary>
+<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-rust.svg?v=2" alt="Rust" width="92%" align="absmiddle"></summary>
 
 <br>
 
-<div align="center"><a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg" alt="typeway" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/typeway"><img src="assets/projects/typeway.svg?v=2" alt="typeway" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/resolute"><img src="assets/projects/resolute.svg" alt="resolute, pg-wired, & pg-pool" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/resolute"><img src="assets/projects/resolute.svg?v=2" alt="resolute, pg-wired, & pg-pool" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/proptest-lockstep"><img src="assets/projects/proptest-lockstep.svg" alt="proptest-lockstep" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/proptest-lockstep"><img src="assets/projects/proptest-lockstep.svg?v=2" alt="proptest-lockstep" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/reify-reflect"><img src="assets/projects/reify-reflect.svg" alt="reify-reflect" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/reify-reflect"><img src="assets/projects/reify-reflect.svg?v=2" alt="reify-reflect" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/elm-ast"><img src="assets/projects/elm-ast.svg" alt="elm-ast" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/elm-ast"><img src="assets/projects/elm-ast.svg?v=2" alt="elm-ast" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/elm-assist"><img src="assets/projects/elm-assist.svg" alt="elm-assist" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/elm-assist"><img src="assets/projects/elm-assist.svg?v=2" alt="elm-assist" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/elm-client-gen"><img src="assets/projects/elm-client-gen.svg" alt="elm-client-gen" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/elm-client-gen"><img src="assets/projects/elm-client-gen.svg?v=2" alt="elm-client-gen" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/mythic"><img src="assets/projects/mythic.svg" alt="mythic" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/mythic"><img src="assets/projects/mythic.svg?v=2" alt="mythic" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/hoogle-tui"><img src="assets/projects/hoogle-tui.svg" alt="hoogle-tui" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/hoogle-tui"><img src="assets/projects/hoogle-tui.svg?v=2" alt="hoogle-tui" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/cabalist"><img src="assets/projects/cabalist.svg" alt="cabalist" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/cabalist"><img src="assets/projects/cabalist.svg?v=2" alt="cabalist" width="92%"></a></div>
 
 </details>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-haskell.svg" alt="Haskell" width="92%" align="absmiddle"></summary>
+<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-haskell.svg?v=2" alt="Haskell" width="92%" align="absmiddle"></summary>
 
 <br>
 
-<div align="center"><a href="https://github.com/joshburgess/acolyte"><img src="assets/projects/acolyte.svg" alt="acolyte & spire" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/acolyte"><img src="assets/projects/acolyte.svg?v=2" alt="acolyte & spire" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/valiant"><img src="assets/projects/valiant.svg" alt="valiant & pg-wire" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/valiant"><img src="assets/projects/valiant.svg?v=2" alt="valiant & pg-wire" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/hedgehog-lockstep"><img src="assets/projects/hedgehog-lockstep.svg" alt="hedgehog-lockstep" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/hedgehog-lockstep"><img src="assets/projects/hedgehog-lockstep.svg?v=2" alt="hedgehog-lockstep" width="92%"></a></div>
 
 </details>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-typescript.svg" alt="TypeScript" width="92%" align="absmiddle"></summary>
+<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-typescript.svg?v=2" alt="TypeScript" width="92%" align="absmiddle"></summary>
 
 <br>
 
-<div align="center"><a href="https://github.com/joshburgess/aeon"><img src="assets/projects/aeon.svg" alt="aeon" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/aeon"><img src="assets/projects/aeon.svg?v=2" alt="aeon" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/kinem"><img src="assets/projects/kinem.svg" alt="kinem" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/kinem"><img src="assets/projects/kinem.svg?v=2" alt="kinem" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/tachys"><img src="assets/projects/tachys.svg" alt="tachys" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/tachys"><img src="assets/projects/tachys.svg?v=2" alt="tachys" width="92%"></a></div>
 
-<div align="center"><a href="https://github.com/joshburgess/tagged-ts"><img src="assets/projects/tagged-ts.svg" alt="tagged-ts" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/tagged-ts"><img src="assets/projects/tagged-ts.svg?v=2" alt="tagged-ts" width="92%"></a></div>
 
 </details>
 
 <details>
-<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-elm.svg" alt="Elm" width="92%" align="absmiddle"></summary>
+<summary><img src="assets/spacer.svg" width="20" align="absmiddle"><img src="assets/banner-elm.svg?v=2" alt="Elm" width="92%" align="absmiddle"></summary>
 
 <br>
 
-<div align="center"><a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/projects/elm-route-craft.svg" alt="elm-route-craft" width="92%"></a></div>
+<div align="center"><a href="https://github.com/joshburgess/elm-route-craft"><img src="assets/projects/elm-route-craft.svg?v=2" alt="elm-route-craft" width="92%"></a></div>
 
 </details>
 

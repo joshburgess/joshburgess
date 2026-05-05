@@ -15,7 +15,7 @@
 
 ## Projects
 
-Click the ▶ icon next to each language banner or the banner itself to expand and see the projects written in that language.
+Click the triangle icon next to each language banner or the banner itself to expand and see the projects written in that language.
 
 </div>
 

@@ -10,7 +10,7 @@
     }
   </style>
   <rect class="bg" x="2" y="14" width="996" height="104"/>
-  <text class="name" x="500" y="47" text-anchor="middle">aeon</text>
-  <text class="desc" x="500" y="81" text-anchor="middle">high-performance, denotationally designed</text>
+  <text class="name" x="500" y="47" text-anchor="middle">aeon &amp; aeon-effect</text>
+  <text class="desc" x="500" y="81" text-anchor="middle">high performance, denotationally designed</text>
   <text class="desc" x="500" y="106" text-anchor="middle">reactive programming library</text>
 </svg>

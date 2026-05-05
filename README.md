@@ -61,6 +61,10 @@ Click the triangle icon next to each language banner or the banner itself to exp
 
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/tachys"><picture><source media="(max-width: 768px)" srcset="assets/tiles/tachys-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/tachys-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/tachys-mid.svg"><img src="assets/tiles/tachys.svg" alt="tachys" width="92%"></picture></a></div>
 
+<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/static-dom"><picture><source media="(max-width: 768px)" srcset="assets/tiles/static-dom-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/static-dom-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/static-dom-mid.svg"><img src="assets/tiles/static-dom.svg" alt="static-dom" width="92%"></picture></a></div>
+
+<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/effect-cycle"><picture><source media="(max-width: 768px)" srcset="assets/tiles/effect-cycle-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/effect-cycle-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/effect-cycle-mid.svg"><img src="assets/tiles/effect-cycle.svg" alt="effect-cycle" width="92%"></picture></a></div>
+
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/tagged-ts"><picture><source media="(max-width: 768px)" srcset="assets/tiles/tagged-ts-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/tagged-ts-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/tagged-ts-mid.svg"><img src="assets/tiles/tagged-ts.svg" alt="tagged-ts" width="92%"></picture></a></div>
 
 </details>

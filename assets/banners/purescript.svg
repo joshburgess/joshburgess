@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#1D222D"/>
+  <g transform="translate(393, 0)">
+    <image x="0" y="12" width="32" height="32" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlB1cmVTY3JpcHQ8L3RpdGxlPjxwYXRoIGQ9Ik0yMS40MzA3IDEyLjAwMjQgMTcuOTQwNCA4LjUwOTIzSDYuMDU5NTdsMy40OTAyMy0zLjQ5MDIzaDExLjg4MDg2TDI0LjkyMTM5IDEuNDkyMTlINi4wNTk2TDAgNy41NTE2OWwzLjQ5MDIzIDMuNDkwODEgNi4wNTkwOCA2LjA1OTA1IDMuNDkwODEtMy40OTA3NS0zLjQ5MDgxLTMuNDkwOTdoMTEuODgwNjd6bS0xNS4zNzExMyAxMC41MDU1NCAzLjQ5MDIzLTMuNDkwNThIMjEuNDMwN0wxNy45NDA0IDIyLjUwNzlINi4wNTk1N3oiLz48L3N2Zz4K"/>
+    <text x="44" y="36" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="22" font-weight="bold" fill="white" letter-spacing="3">PURESCRIPT</text>
+  </g>
+</svg>

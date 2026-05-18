@@ -84,3 +84,9 @@ Click the triangle icon next to each language banner or the banner itself to exp
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/elm-route-craft"><picture><source media="(max-width: 768px)" srcset="assets/tiles/elm-route-craft-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/elm-route-craft-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/elm-route-craft-mid.svg"><img src="assets/tiles/elm-route-craft.svg" alt="elm-route-craft" width="92%"></picture></a></div>
 
 </details>
+
+<details>
+<summary><picture><img src="assets/spacer.svg" width="3%" align="absmiddle"></picture><picture><source media="(max-width: 768px)" srcset="assets/banners/zig-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/banners/zig-compact.svg"><source media="(max-width: 1280px)" srcset="assets/banners/zig-mid.svg"><img src="assets/banners/zig.svg" alt="Zig" width="92%" align="absmiddle"></picture></summary>
+<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/zig-vst3"><picture><source media="(max-width: 768px)" srcset="assets/tiles/zig-vst3-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/zig-vst3-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/zig-vst3-mid.svg"><img src="assets/tiles/zig-vst3.svg" alt="zig-vst3 &amp; zig-vst3-plugin" width="92%"></picture></a></div>
+
+</details>

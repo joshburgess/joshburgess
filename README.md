@@ -41,6 +41,10 @@ Click the triangle icon next to each language banner or the banner itself to exp
 
 <div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/cabalist"><picture><source media="(max-width: 768px)" srcset="assets/tiles/cabalist-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/cabalist-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/cabalist-mid.svg"><img src="assets/tiles/cabalist.svg" alt="cabalist" width="92%"></picture></a></div>
 
+<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/tryx"><picture><source media="(max-width: 768px)" srcset="assets/tiles/tryx-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/tryx-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/tryx-mid.svg"><img src="assets/tiles/tryx.svg" alt="tryx" width="92%"></picture></a></div>
+
+<div><img src="assets/spacer.svg" width="12" align="absmiddle"><img src="assets/spacer.svg" width="3%" align="absmiddle"><a href="https://github.com/joshburgess/test-better"><picture><source media="(max-width: 768px)" srcset="assets/tiles/test-better-narrow.svg"><source media="(max-width: 1012px)" srcset="assets/tiles/test-better-compact.svg"><source media="(max-width: 1280px)" srcset="assets/tiles/test-better-mid.svg"><img src="assets/tiles/test-better.svg" alt="test-better" width="92%"></picture></a></div>
+
 </details>
 
 <details>

@@ -11,6 +11,6 @@
   </style>
   <rect class="bg" x="2" y="14" width="996" height="164"/>
   <text class="name" x="500" y="66" text-anchor="middle">purescript-rio</text>
-  <text class="desc" x="500" y="120" text-anchor="middle">ZIO and Effect-TS inspired typed-error</text>
+  <text class="desc" x="500" y="120" text-anchor="middle">ZIO and Effect inspired typed-error</text>
   <text class="desc" x="500" y="158" text-anchor="middle">effect system for PureScript</text>
 </svg>

@@ -11,6 +11,6 @@
   </style>
   <rect class="bg" x="2" y="14" width="996" height="104"/>
   <text class="name" x="500" y="47" text-anchor="middle">purescript-rio</text>
-  <text class="desc" x="500" y="81" text-anchor="middle">ZIO and Effect-TS inspired typed-error effect system</text>
+  <text class="desc" x="500" y="81" text-anchor="middle">ZIO and Effect inspired typed-error effect system</text>
   <text class="desc" x="500" y="106" text-anchor="middle">with service rows, STM, streams, and schedules</text>
 </svg>
